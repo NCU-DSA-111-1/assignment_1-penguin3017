@@ -16,7 +16,7 @@
 ```sh
 # Compile
 cd src
-gcc -o output 108501025_assignment_1.c
+gcc -o a 108501025_assignment_1.c
 # Run
-./output
+./a
 ```
